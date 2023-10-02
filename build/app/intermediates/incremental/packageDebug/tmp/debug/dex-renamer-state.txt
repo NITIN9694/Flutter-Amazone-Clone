@@ -1,0 +1,4 @@
+#Mon Oct 02 23:37:39 IST 2023
+base.0=/Users/nitinjha/Documents/Flutter Project/Flutter-Amazone-Clone/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
